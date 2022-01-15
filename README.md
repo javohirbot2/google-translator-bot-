@@ -1,3 +1,4 @@
 # google-translator-bot-
-Google Translator Bot 
-Creator https://t.me/rasulovich_05
+Creator: https://t.me/rasulovich_05
+What can this bot do? 👇🏻
+This bot translate only "english" to "uzbek" 
