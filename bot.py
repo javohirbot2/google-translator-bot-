@@ -4,10 +4,7 @@ from googletrans import Translator
 updater = Updater('5009722252:AAFla1n_v5_zD_DgVOTkQinv8QtUCUAMTIY',use_context = True )
 
 def start(updater,context):
- updater.message.reply_text("👋🏻 Salom botga hush kelibsiz!\nBotdan foydalanish uchun\n@foydali_link_1 kanaliga a'zo bo'lib \nqayta /start bosing!  ")
- 
-def start(updater,constart):
- updater.message.reply_text(" Endi botdan be'malol foydalanishingiz mumkin! ")
+ updater.message.reply_text("👋🏻 Salom botga hush kelibsiz!\nBotdan foydalanish uchun\n@foydali_link_1 kanaliga a'zo bo'ling! \nKeyin be'malol botdan \nfoydalanishingiz mumkin!   ")
  
 def echo(updater,context):
  usr_msg =updater.message.text
